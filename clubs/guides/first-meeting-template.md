@@ -4,7 +4,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
-> 🧹 This guide is completely out of date, as clubs are now free to choose between workshops and free-form hacking as they please. There's still some good advice in here, so it's being kept around. 
+> 🧹 This guide is completely out of date, as clubs are now free to choose between workshops and free-form hacking as they please. All the information in the guide should be viewed as what it is (_a guide_) and not as "you must do this." There's still some good advice in here, so it's being kept around. 
 
 Hack Club meetings alternate between running workshops and free-form hacking (with demos). From here on out, we'll refer to meetings with workshops as _workshop days_ and meetings with free-form hacking and demos as _hack days_.
 
@@ -46,6 +46,8 @@ As hackers start to arrive, your goal is to make them feel welcome. We recommend
 7. You want people to feel good about their decision to come to Hack Club
 8. Tell people what will be happening next (e.g., "We're going to get the first meeting started in about 10 minutes after people are done trickling in. In the meantime, please make yourself at home and let me know if I can be helpful with anything.")
 
+> 📑 Refer to the [Engaging members guide](https://github.com/hackclub/hackclub/blob/main/clubs/guides/engaging-members.md) for more help on this topic.
+
 # Introduction Presentation
 
 The purpose of the introduction presentation is to tell members what Hack Club is, what you're going to be doing throughout the year, when you meet, and, _most importantly_, get them excited about the club.
@@ -57,6 +59,8 @@ Refer to the [slideshow presentation](https://docs.google.com/presentation/d/1Qh
 The name game is a simple icebreaker activity that will warm the atmosphere and make club members more comfortable around each other. This will be especially helpful to freshman, who probably don't know people from the higher grades.
 
 Have the club members gather in a large circle. Start by saying your name and creating a mnemonic for it (e.g., "Hey everyone, I'm Zach. Zany Zach."). Then have the person to your left do the same and then repeat what you said (e.g., "I'm Jolly Jane. And he is Zany Zach"). Then have the person to their left do the same and then say the names and mnemonics for everyone that has gone so far, in order. Continue doing this through the whole circle until everyone has gone. This will get significantly more difficult (and fun!) as more people go -- if someone gets stuck, encourage others to help them out.
+
+> 📑 Refer to the [Engaging members guide](https://github.com/hackclub/hackclub/blob/main/clubs/guides/engaging-members.md) for more icebreakers and games.
 
 # First Website Workshop
 
@@ -77,3 +81,5 @@ When people do have questions, be eager to help them out. It's also a good idea 
 Five minutes before the meeting is over, get everyone's attention to remind them about the next meeting. Tell them when and where it'll be and make sure that everyone knows they will be finishing the websites they started on and presenting them at the end. Most importantly, thank them for coming to this meeting!
 
 An effective way to remind people about club meetings is to send them a text message the night before. A popular service that lets you send announcements through text messages used by many of the clubs is called [Remind](https://remind.com/). Just make sure to set up your Remind account the day before the meeting so you don't run into any issues. The end of the club meeting would be a really good time for everyone else to setup an account. All they need to do now is text `81010`with your Club's Remind code (like`@ehs-hacks`) and that'll add them to your remind. You'll be able to send them any announcements about club meetings via text message the night before. If any members are concerned about privacy, inform them Remind does not give out their phone number.
+
+> 📑 Refer to the [Communicating with members guide](https://github.com/hackclub/hackclub/blob/main/clubs/guides/communicating-with-members.md) for more help on this topic.
