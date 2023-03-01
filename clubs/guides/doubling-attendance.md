@@ -1,4 +1,6 @@
-By Dina Elhanan (@digitaldina), posted originally in #leaders. 30 Jul 2019
+__By Dina Elhanan (@digitaldina), posted originally in #leaders on the Hackclub slack. Edited by Megan for clarity. 30 Jul 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
@@ -36,7 +38,3 @@ Hearing something like this would have helped me since my school isn't made up o
 By the way, here's what the **handouts** for the event looked like. I cut them up and one girl I passed it to even said, "Aww! You cut them up yourself?". This helped me understand that people appreciate the effort you put into things and are, as a result, more likely to also be passionate about it as well.
 
 Link to the handouts: [https://docs.google.com/document/d/1C3GMC4kvxmCCtI-llNLEWxN1PpCnY6EdNOBsCatW9-c/edit?usp=sharing](https://docs.google.com/document/d/1C3GMC4kvxmCCtI-llNLEWxN1PpCnY6EdNOBsCatW9-c/edit?usp=sharing)
-
----
-
-_Edited by @megan._
