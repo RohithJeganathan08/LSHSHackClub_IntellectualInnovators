@@ -1,6 +1,10 @@
-By Hack Club staff. 2015
+__By Hack Club staff. Edited by @megan for clarity. 2015__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
+
+> 🗒 Please note: all the information in the guide should be viewed as what it is (_a guide_) and not as "you must do this." There's still some good advice in here, so it's being kept around.
 
 Here's our suggested schedule for Hack Days:
 
@@ -29,7 +33,3 @@ You'll want to do the same thing you did in the second meeting to run demos. [Cl
 * Five minutes before the meeting is over, make sure to hit the last slide in the presentation and tell everyone the time and place for the next meeting.
 * Let everyone know they’ll be doing a new workshop next time, and give a brief and enticing description.
 * Thank them for coming!
-
----
-
-_Edited by @megan._
