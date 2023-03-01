@@ -1,10 +1,12 @@
-By Mingjie Jiang (@itsmingjie). 02 Aug 2019
+__By Mingjie Jiang (@itsmingjie). Edited by @megan. 02 Aug 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
 Having led my Hack Club at my school for over 2 years, I can’t even remember how many times I’ve been asked whether Hack Club is actually “hacking” people. Here are some tips to help you deal with these questions, so next time you’re “confronted” by a teacher or an admin about your club, you can breeze through the questions!
 
-# Strategy 0: This is hacking
+## Strategy 0: This is hacking
 
 You need to be clear and firm what the word “hack” means to you and your club. Here’s the most standard version of the explanation:
 
@@ -12,7 +14,7 @@ You need to be clear and firm what the word “hack” means to you and your clu
 
 If you have enough time to sit down with your audience, you can also bring up a few projects that our students created at club meetings and hackathons.
 
-# Strategy 1: Scale & legitimacy
+## Strategy 1: Scale & legitimacy
 
 Usually, schools may determine that your club is sketchy just from the name. Prove to them that it’s not. Here’s an example:
 
@@ -22,18 +24,19 @@ Usually, schools may determine that your club is sketchy just from the name. Pro
 
 While using this strategy to convince faculty, be sure to know exactly what you are talking about.
 
-# Strategy 2: Demo & Showaround
+## Strategy 2: Demo & Showaround
 
 This one is easy. Invite one of your administrators or teachers who questioned you to one of your club meetings. Run your meeting like normal—run a workshop, have your club members demo around, and after the meeting, ask them politely for their feedback.
 
 _Side tip: your club members will naturally behave better when there’s an administrator in the room._
 
-# Strategy 3: Teacher Sponsor’s Got Your Back
+## Strategy 3: Teacher Sponsor’s Got Your Back
 
 You should really get your teacher sponsor on the same boat as you. Find a time to sit down and chat with them about why you are so passionate about making this club successful, and convince them with your arguments first. Your sponsor teacher should know everything you know about the structure of Hack Club, and they should thoroughly understand the philosophy of the club.
 
 If your teacher sponsor is with you on where you want to go with your club, it should be drastically easier to overcome the friction with your student government, other teachers, or admins.
 
----
+# Additional Notes
+_Added by @ohdear12 on March 1st, 2023_
 
-_Edited by @megan._
+Some more examples of admin-club comunication can be found at [school-toolbox.hackclub.com](https://school-toolbox.hackclub.com/). Take a look, and adopt the tone used there when talking or emailing admins or sponsers.
