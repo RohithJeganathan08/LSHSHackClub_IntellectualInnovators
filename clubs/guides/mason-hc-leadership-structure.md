@@ -1,8 +1,12 @@
-By Megan Cui (@megan). 30 Jul 2019
+__By Megan Cui (@megan). 30 Jul 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
 The leadership structure for Mason Hack Club has gone through several iterations. I'll be going over all of them here!
+
+> 🗒 This is a large club, so leadership was very formal. Your club leadership doesn't have to be quite as organised. As always, use your best judgement.
 
 # Year 1 (2016-17)
 
@@ -77,3 +81,5 @@ The smaller team was decided through long debates, but after reflection on Year 
 # Conclusions
 
 Overall, Mason Hack Club had lots of iterations of leadership positions and structures, but I'm personally really happy with how we decided to transition leadership. Hope this helps you decide or reflect on your structure!
+
+> 📑 Refer to the [Leadership teams guide](https://github.com/hackclub/hackclub/blob/main/clubs/guides/leadership-teams.md) for more help on this topic.
