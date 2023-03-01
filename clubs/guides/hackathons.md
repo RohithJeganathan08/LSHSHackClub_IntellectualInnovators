@@ -1,3 +1,7 @@
+__By @Sampoder. September 18th, 2022__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
+
 # Hackathons
 
 ![bY7tzHej](https://user-images.githubusercontent.com/39828164/189497810-6d9d2920-6bee-4990-9553-57699918ae9c.jpg)
@@ -14,4 +18,6 @@ A hackathon is a social coding marathon where teenagers come together to build p
 - https://hackathon.guide
 - https://www.youtube.com/watch?v=w_ACnmEqFr8
 - https://www.youtube.com/watch?v=tOmXzA4reTY
+  > 🤔 For some reason, this video is not avaible in restricted mode. Sorry!
 - http://conference.hopper.org.nz/#tshirts
+  > 🗃 Parts (or most) of this resource aren't relivant. This resource was last updated in 2016, and is almost out of date.
