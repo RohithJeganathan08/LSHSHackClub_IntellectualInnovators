@@ -1,38 +1,49 @@
-By Lachlan Campbell (@lachlanjc) and staff. 30 Jul 2019
+__By Lachlan Campbell (@lachlanjc) and staff. 30 Jul 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
-# Getting a [hackclub.com](http://hackclub.com) subdomain
+# Website componants and code
 
-> ⚠️ This section is out of date! You can now get your own subdomain by going directly to github.com/hackclub/dns & submitting a PR. -@msw
+### Getting a [hackclub.com](http://hackclub.com) subdomain
 
-Any club leader can get access to a [hackclub.com](http://hackclub.com) subdomain for their club or hackathon website. To register or update yours, go to [leaders.hackclub.com](https://leaders.hackclub.com/), sign in with the email address on your application, & there’s a link to “add a subdomain.” A Hack Club staff member will approve your request shortly.
+Any club leader can get access to a [hackclub.com](http://hackclub.com) subdomain for their club or hackathon website. To register or update yours, go to to [github.com/hackclub/dns](https://github.com/hackclub/dns) & submit a PR. A Hack Club staff member will approve your request shortly.
 
-[Hack Club Leaders](https://leaders.hackclub.com/)
-
-Fun fact: all of Hack Club’s DNS is [open source on GitHub](https://github.com/hackclub/dns)!
+> Fun fact: all of Hack Club’s DNS is [open source on GitHub](https://github.com/hackclub/dns)!
 
 If you have issues, ping @msw on Slack.
 
-# Site examples
-
-- [Mason Hack Club](https://masonhackclub.com/)
-- [West Lafayette High School Hack Club](https://wl.hackclub.com/)
-- [Hack Club CCA](https://cca.hackclub.com/)
-- [State High Hack Club](https://statehigh.hackclub.com)
-- [Wootton Hack Club](https://hack.wootton.club/)
-- [Fremont High School Hack Club](https://www.fhshackclub.com/)
-- [Palm Springs High School Hack Club](https://pshs.hackclub.com/)
-- [Westborough Hack Club](https://westborough.hackclub.com/)
-- [Pomperaug Hack Club](https://pomperaug.hackclub.com/)
-
-# Adding a Hack Club banner
+### Adding a Hack Club banner
 
 ![](https://cloud-pjoop60lr.vercel.app/0image-20190730-202428.png)
 
 Hack Club has official banners for your club website to link to Hack Club. If you’re making a standard HTML site, here’s the code for adding a linked banner: [https://github.com/hackclub/hackclub#banners](https://github.com/hackclub/hackclub#banners)
 
 If you’re making a React site, we’ve got you covered with a custom component published on npm as `@hackclub/banner`. Here’s the docs: [https://hackclub.com/banner](https://hackclub.com/banner)
+
+### Branding
+
+Looking for offical hackclub colors, icons, banners, and logos? Find them at [hackclub.com/brand](https://hackclub.com/brand/).
+
+### UI componants and CSS
+
+Hackclub has pre-made CSS and UI components. They can be found at [github.com/hackclub/css](https://github.com/hackclub/css) and [github.com/hackclub/theme-starter](https://github.com/hackclub/theme-starter), respectively. A preview of the theme can be found at [theme.hackclub.com](https://theme.hackclub.com/)
+
+# Site examples
+
+- [Mason Hack Club](https://masonhackclub.com/)
+- [West Lafayette High School Hack Club](https://wl.hackclub.com/)
+- [State High Hack Club](https://statehigh.hackclub.com)
+  > 🚨 https://statehigh.hackclub.com looks like it's no longer mantained.
+- [Wootton Hack Club](https://hack.wootton.club/)
+- [Fremont High School Hack Club](https://www.fhshackclub.com/)
+- [Palm Springs High School Hack Club](https://pshs.hackclub.com/)
+  > 🚨 https://pshs.hackclub.com/ looks like it's no longer mantained.
+- [Westborough Hack Club](https://westborough.hackclub.com/)
+- [Pomperaug Hack Club](https://pomperaug.hackclub.com/)
+  > 🚨 https://pomperaug.hackclub.com/ looks like it's no longer mantained.
+
 
 # Stories from club leaders
 
