@@ -1,8 +1,11 @@
-By Mingjie Jiang (@itsmingjie). 06 Aug 2019
+__By Mingjie Jiang (@itsmingjie). Edited by @megan for clarity. 06 Aug 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
 [Youtube link](https://www.youtube.com/watch?v=ZBadb9-KWro)
+> 🧹 Looks like a section the linked video is corrupted. A quick summary is attached.
 
 # Video Overview
 
@@ -55,7 +58,4 @@ Before I start, I just want to briefly talk about my school's demographics:
 Thanks for watching! I hope this was helpful in preparing you for your first meeting. Check out other videos on this channel & other articles in the Help Center. More details can be found in the video description/page.
 
 DM me if you have questions!
-
----
-
-_Edited by @megan._
+> 📵 The author may not be active on the hackclub slack anymore. #leaders is also a good place to post questions!
