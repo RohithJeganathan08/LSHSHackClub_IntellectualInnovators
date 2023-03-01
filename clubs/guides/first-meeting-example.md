@@ -1,14 +1,16 @@
-By Lachlan Campbell (@lachlanjc). 30 Jul 2019
+__By Lachlan Campbell (@lachlanjc). 30 Jul 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
-My best first meeting was one of my most fun meetings ever. I had 40+ students crowded in one room—we needed chairs from other classrooms, some kids were still perched on windowsills—and the energy was visible everywhere.
+My best first meeting was one of my most fun meetings ever. I had 40+ students crowded in one room — we needed chairs from other classrooms, some kids were still perched on windowsills — and the energy was visible everywhere.
 
 # Structure
 
 I super recommend running Hack Club’s Personal Website workshop. It’s made for beginners with a foundation of HTML & CSS.
 
-[Personal Website - Hack Club Workshops](https://hack.af/intro)
+[Personal Website - Hack Club Workshops](https://workshops.hackclub.com/personal_website/)
 
 _Short link for workshop: [**hack.af/intro**](https://hack.af/intro)_
 
@@ -24,7 +26,7 @@ By the time you leave today, everyone will have a website they built from scratc
 
 I think coding is the closest thing we’ve got to a superpower, & I’m here because I want all of you to experience this. Just as a high schooler, you can have millions of people using things you make. But CS classes aren't inspiring. You learn fundamentals, maybe make something months later. We want you to make something in an hour here.
 
-At this workshop, you’re going to learn by necessity, jump off the deep end, learn on your own as you go. I’m not giving you a lecture on websites—you’ll have an hour with a self-guided tutorial, then a bunch of you will demo what you make. You don't want to just follow the tutorial though—since everyone’s going to demo, you want your site to stand out. Doing just what’s in the tutorial is failing here—you should go way above & beyond.
+In this workshop, you’re going to learn by necessity, jump off the deep end, learn on your own as you go. I’m not giving you a lecture on websites—you’ll have an hour with a self-guided tutorial, then a bunch of you will demo what you make. You don't want to just follow the tutorial though—since everyone’s going to demo, you want your site to stand out. Doing just what’s in the tutorial is failing here—you should go way above & beyond.
 
 You're going to build on your own now! Whenever you've got questions, l'm here to help. Thanks again for being here.
 
@@ -42,4 +44,3 @@ You're going to build on your own now! Whenever you've got questions, l'm here t
 - [https://blissfulelasticforce--bellachip.repl.co/](https://blissfulelasticforce--bellachip.repl.co/)
 - [https://jinyoungie.sulutemirova.repl.co/](https://jinyoungie.sulutemirova.repl.co/)
 - [https://fumblingdiscreterevisioncontrol--venywiijaya.repl.co/](https://fumblingdiscreterevisioncontrol--venywiijaya.repl.co/)
-- [https://freevbucks--herbertchen.repl.co/](https://freevbucks--herbertchen.repl.co/)
