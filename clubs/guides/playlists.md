@@ -1,6 +1,6 @@
 __By Matthew Stanciu (@matthew) and Lachlan Campbell (@lachlanjc). 30 Jul 2019__
 
-_Reviewed, edited, and updated by @ohdear12 on March 1nd, 2023_
+_Reviewed, edited, and updated by @ohdear12 on March 2nd, 2023_
 
 ---
 Need a good way to play music during your meetings? Here's a few examples:
