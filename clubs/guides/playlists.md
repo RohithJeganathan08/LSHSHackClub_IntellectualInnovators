@@ -20,3 +20,5 @@ See it live:
 Source code:
 
 [SCHacks/music](https://github.com/schacks/music)
+
+> 🧹 Looks like this repo hasn't been updated in a long time. Double check depenances used to verify it isn't using defunct code.
