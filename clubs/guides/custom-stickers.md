@@ -10,7 +10,7 @@ I make all my designs in [Figma](https://figma.com), a free online design tool. 
 
 [State High Hack Club Merch on Figma](https://www.figma.com/file/bTIqD1mFBymQF5ynQZCIqtuO?node-id=0:1)
 
-> 💲 Side note: Figma provides a free pro plan if you sign up with a [Student-Deveolper-Pack-Approved github account](https://education.github.com/pack).
+> 💲 Side note: Figma provides a free pro plan if you sign up with a [Student Deveolper Pack Approved github account](https://education.github.com/pack).
 
 ---
 
