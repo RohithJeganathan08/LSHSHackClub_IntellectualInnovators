@@ -1,4 +1,6 @@
-By Hack Club staff. 2015
+__By Hack Club staff. 2015__
+
+_Reviewed, edited, and updated by @ohdear12 on March 16th, 2023_
 
 ---
 
@@ -17,3 +19,5 @@ Once you've decided on a few potential teacher sponsors, reach out to them and t
 You'll want to get your teacher sponsor to commit to providing a space twice a week after-school for at least an hour and a half (ideally two hours, so there's extra time for members to stay after meetings).
 
 The difficulty of getting a teacher sponsor varies widely school to school. At some schools you'll find a good teacher sponsor on your first try and at others it'll take talking to 5-6 teachers. The most important thing is to be persistent.
+
+> 📑 Refer to the [School Toolbox](https://school-toolbox.hackclub.com/) for more help on this topic
