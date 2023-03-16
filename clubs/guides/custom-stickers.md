@@ -1,4 +1,6 @@
-By Lachlan Campbell (@lachlanjc). 30 Jul 2019
+__By Lachlan Campbell (@lachlanjc). 30 Jul 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 14th, 2023_
 
 ---
 
@@ -7,6 +9,8 @@ Stickers have been an awesome way for members of my club to promote it. In addit
 I make all my designs in [Figma](https://figma.com), a free online design tool. I didn’t end up printing all the stickers I designed, but here are the original designs if you want to remix them yourself:
 
 [State High Hack Club Merch on Figma](https://www.figma.com/file/bTIqD1mFBymQF5ynQZCIqtuO?node-id=0:1)
+
+> 💲 Side note: Figma provides a free pro plan if you sign up with a [Student-Deveolper-Pack-Approved github account](https://education.github.com/pack).
 
 ---
 
