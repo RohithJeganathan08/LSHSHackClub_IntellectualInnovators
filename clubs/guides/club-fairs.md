@@ -1,8 +1,10 @@
-By Saharsh Yeruva (@saharsh). 08 Sep 2019
+__By Saharsh Yeruva (@saharsh). Edited by @itsmingjie for clarity. 08 Sep 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on February 28th, 2023_
 
 ---
 
-Club fair, club rush, freshman orientation, or whatever your school calls it, they are all the same thing: a time for all the clubs in a school to get together, set up individual booths, and try to advertise their club and get as many students as possible to join them. Here are some of my thoughts on how the 2019 freshman orientation went for Westborough High School’s Hack Club.
+Club fair, club rush, freshman orientation - or whatever your school calls it - they are all the same thing: a time for all the clubs in a school to get together, set up individual booths, and try to advertise their club and get as many students as possible to join them. Here are some of my thoughts on how the 2019 freshman orientation went for Westborough High School’s Hack Club.
 
 _\*Disclaimer: Every school and every club is different, so depending on your school, you will have varying experiences with fa club fair. Also, these are just **my takeaways** on how the whole thing went, I am not saying that other members of my club have the same thoughts.\*_
 
@@ -50,11 +52,11 @@ Us: That’s fine. Take some candy and stickers anyway! Also, fill out our inter
 
 ![](https://cloud-3upss4n9t.vercel.app/0image1.jpg)
 
-We set up our booth right at the entrance and had quite the eye-catching display, so we can be pretty confident in saying that every student that was there saw our booth. As a result of that, however, a lot of students standing around and just messing with different colors that the TV could change to. Which was a really good thing, but many of the students that were up there texting a color to change the background never really spoke to any of the club leaders, which I felt was a real shame. Overall, I would say that the club fair went pretty well and that as a club, we did just about everything that we could possibly do to attract students and try to get them to join the club.
+We set up our booth right at the entrance and had quite an eye-catching display, so we can be pretty confident saying that every student (that was there) saw our booth. As a result of that, however, a lot of students were standing around and just messing with different colors that the TV could change to - which was a really good thing, but many of the students that were up there texting a color to change the background never really spoke to any of the club leaders, which I felt was a real shame. Overall, I would say that the club fair went pretty well and that as a club, we did just about everything that we could do to attract students and try to get them to join the club.
 
 # Our Takeaways
 
-The biggest thing I learned from this was that: **Hack Clubs, and Computer Science Clubs, in general, are not that established in schools at the moment.** I came to this conclusion by comparing the number of sign-ups that our Hack Club got, about 30, to the number of signups other clubs got. For this comparison, I am going to be using our schools' debate club, which got about 50-60 sign-ups and their booth was nowhere near as elaborate as ours. In other words, between two clubs that were established at a similar time, where one club was far more eye-catching in terms of its presentation, the club that wasn’t as eye-catching got more sign-ups. Although I realize that I am leaving some other variables out of this, I took this as even though Hack Club peaked in terms of a presentation, debate club was able to get more sign-ups. Thus, I would, for the most part, say that debate club got more sign-ups due to being a more established club in the eyes of the students in general (keep in mind, the debate club at WHS was founded just one year before WHS Hack Club was founded).
+The biggest thing I learned from this was that: __Hack Clubs, and Computer Science Clubs, in general, are not that established in schools at the moment.__ I came to this conclusion by comparing the number of sign-ups that our Hack Club got, about 30, to the number of signups other clubs got. For this comparison, I am going to be using our school's debate club, which got about 50-60 sign-ups and their booth was nowhere near as elaborate as ours. In other words, between two clubs that were established at a similar time, where one club was far more eye-catching in terms of its presentation, the club that wasn’t as eye-catching got more sign-ups. Although I realize that I am leaving some other variables out of this, I took this as even though Hack Club peaked in terms of presentation, the debate club was able to get more sign-ups. Thus, I would, for the most part, say that the debate club got more sign-ups due to being a more established club in the eyes of the students in general (keep in mind, the debate club at WHS was founded just one year before WHS Hack Club was founded).
 
 Now, what would I change next year to try to get more students? Other than talking to more of the students who were just standing around, I don’t think that changing anything would have led to a much larger number of people signing up because every student saw our presentation and more-or-less understood what Hack Club was, but we only got about 30 sign-ups, about 10% of the rising freshman. I understood this as the best the WHS Hack Club could do and other than getting more credentials for Hack Club/CS Clubs, I don’t think that many things would enable us to get more than 10% of students to sign-up.
 
@@ -63,7 +65,3 @@ Now, what would I change next year to try to get more students? Other than talki
 _Added on Febuary 28th, 2023 by @ohdear12_
 
 This was done by a club with plenty of funding and resources. It's okay to do somthing smaller, for two years my club only did a tri-fold display for out club fair. The most important part of a club fair is that you tell people what your club is, why it's cool to join, when to meet, etc, etc, and seem approchable and frendly while you do so. While a big fancy dysplay does get more attention, a good leader reconises a club's limits and knows when a project is too much to handle.
-
----
-
-_Original guide edited by @itsmingjie._
