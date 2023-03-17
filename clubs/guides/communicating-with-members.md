@@ -27,4 +27,4 @@ I used a service called [TinyLetter](https://tinyletter.com), which is just a li
 
 ### Google Classroom: Ethan Barker (@ohdear12)
 
-Northshore Hacks uses Google Classroom for communication, and it's a method more and more clubs are using. It's espessally useful if your school uses GC for assignments, that way your club is right where students spend a good chunk of their day. It's good for reminders, sharing files and links, and discussions. It also has a really nice UI (It's developed by google, what did you expect) and it's easy to use.
+Northshore Hacks uses Google Classroom for communication, and it's a method more and more clubs are using. It's especially useful if your school uses GC for assignments, that way your club is right where students spend a good chunk of their day. It's good for reminders, sharing files and links, and discussions. It also has a really nice UI (It's developed by google, what did you expect) and it's easy to use.
