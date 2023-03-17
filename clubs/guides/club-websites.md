@@ -57,7 +57,7 @@ I quickly discovered a few key things needed from my club site:
 - Quick links to Hack Club Workshops
 - Quick links to [repl.it](http://repl.it), Glitch, hackathon to register for, etc
 - A form for members to submit projects. I do demos at the end of every club meeting, & to avoid everyone dealing with A/V individually, I have everyone submit to me their project links on the site. It sends me an email, so I can then pull up the links on my laptop with the projector connected.
-  - I use a free service called [Formspree](https://formspree.io), but [Basin](https://usebasin.com/) is another free alternative.
+  - I use a free service called [Formspree](https://formspree.io), but [Basin](https://usebasin.com/) or google forms (included with Google Workspace) are some other free alternatives.
         
 
 [State High Hack Club](https://statehigh.hackclub.com)
