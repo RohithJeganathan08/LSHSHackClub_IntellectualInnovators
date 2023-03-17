@@ -1,6 +1,8 @@
-By Jack Margeson (@margeson.jack) and Ava Scherocman (@ava). 05 Aug 2019
+__By Jack Margeson (@margeson.jack) and Ava Scherocman (@ava). Edited by @megan for clarity. 05 Aug 2019__
 
-_Originally named “Koding 4 Kidz”._
+_Reviewed, edited, and updated by @ohdear12 on March 16th, 2023_
+
+Originally named “Koding 4 Kidz”.
 
 ---
 
@@ -18,7 +20,7 @@ We both go to Mason High School, and both of us joined our school’s Hack Club,
 
 ![](https://cloud-al9r256lr.vercel.app/6img_4064.jpg)
 
-**_Here we are looking stressed at CincyHacks Jr check-in._**
+_Here we are looking stressed at CincyHacks Jr check-in._
 
 # Patience and Frustration
 
@@ -30,7 +32,7 @@ When a student begins to become frustrated with coding, it’s your job as a tea
 
 ![](https://cloud-al9r256lr.vercel.app/5pasted_image_0.jpg)
 
-**_Young coders hard at work at CincyHacks Jr._**
+_Young coders hard at work at CincyHacks Jr._
 
 Patience is the most important key to working well with younger kids—it can significantly contribute to their learning. Being there for your students when they have questions, get frustrated, or want to give up is one of the most critical tasks you have as an instructor to children. Plenty of things are going to test your patience, we promise. Often, you’ll have several kids need help at the same time, or your compiler will stop working, or the WiFi will go out—all situations beyond your control.
 
@@ -44,13 +46,15 @@ The best way to combat frustration and/or indifference to what you’re teaching
 
 ![](https://cloud-al9r256lr.vercel.app/4pasted_image_1.jpg)
 
-**_Teaching a personal website workshop at CincyHacks Jr._**
+_Teaching a personal website workshop at CincyHacks Jr._
 
 This allows kids to make a website about whatever they want. Kids can be creatively wonderful and awesome—and it opens up a lot of cool ideas for projects. Coding is a creative outlet as much as it is a tool for learning—letting kids incorporate their interests into their projects allows them to see that there’s a fun side to coding and that there’s a reason they should continue. We’ve had students make websites about everything from Dorito Devito (Danny Devito as a Dorito) to Fartnite (a parody of Fortnite with all poop-themed locations). Every kid is excited about something outside of coding—help them find it! If a student looks stuck on what to build, we usually ask what their favorite activity, food, or animal is.
 
 ![](https://cloud-al9r256lr.vercel.app/3pasted_image_2.png)
 
-**_An attendee presents their project at CincyHacks Jr._**
+_An attendee presents their project at CincyHacks Jr._
+
+> 📑 You can find the Personal Website workshop [here](https://workshops.hackclub.com/personal_website/).
 
 # Teaching Strategies
 
@@ -60,7 +64,7 @@ When you’re teaching kids, you’ll find that you sound like a broken record. 
 
 ![](https://cloud-al9r256lr.vercel.app/2pasted_image_3.png)
 
-**_Kids being taught by Mason Hack Club members_**
+_Kids being taught by Mason Hack Club members_
 
 A good tactic is to explain things with analogies to everyday life—we usually talk about if statements being similar to the weather. If statements check a condition, like the weather outside, and decide what to do based on what the condition is. If it’s cold outside, you would wear a coat. If it’s warm out, you wear shorts. Not checking the weather and just choosing a random item to wear never goes well, so using an if test here is a good idea.
 
@@ -72,7 +76,7 @@ One of the biggest qualities we look for in team members is adaptivity. When run
 
 ![](https://cloud-al9r256lr.vercel.app/1pasted_image_4.png)
 
-**_The CincyHacks Jr. 2019 team!_**
+_The CincyHacks Jr. 2019 team!_
 
 The best way to improve your team and your students’ experience is to get feedback from the kids themselves. Sometimes people don’t realize it, but kids are RUTHLESS. They have absolutely no filter. If you’re doing something wrong, you better believe that they won’t hesitate to tell you. Always make sure to get feedback! At Hack Camp, we send out a daily survey as a Google Form.
 
@@ -86,7 +90,7 @@ Another aspect you need to look for when choosing a venue: quality of outdoor sp
 
 ![](https://cloud-al9r256lr.vercel.app/0pasted_image_5.png)
 
-**_CincyHacks Jr. attendees outside Cengage Learning in Mason, Ohio_**
+_CincyHacks Jr. attendees outside Cengage Learning in Mason, Ohio_
 
 # Snacks
 
@@ -98,6 +102,4 @@ And just like we touched upon in the venue section, snacks give the opportunity 
 
 If you’ve made it this far, thank you for reading! We hope that you’ve learned something about teaching children and have a good idea about where to start and some of the things to think about when organizing your first event for kids. If you have any questions, comments, or concerns, don’t hesitate to reach out! We’re available on the Slack (@margeson.jack & @ava) and you can find all of our other contact stuff and boring things like that on our websites: [https://marg.es/on/](https://marg.es/on/) & [https://avascherocman.com/](https://avascherocman.com/). Until next time—happy hacking!
 
----
-
-_Edited by @megan._
+> 📵 The author(s) may not be active on the hackclub slack anymore. #leaders is also a good place to post questions!

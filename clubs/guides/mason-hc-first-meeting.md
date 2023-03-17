@@ -1,4 +1,6 @@
-By Jack Margeson (@margeson.jack). 08 Sep 2019
+__By Jack Margeson (@margeson.jack). Edited by @itsmingjie for clarity. 08 Sep 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
@@ -25,7 +27,3 @@ We consolidated with a bit about what we do at Mason Hack Club, who we are, even
 Finally, everyone got to leave the meeting with something built, whether that be a personal website or React ‘hello world’, and some free pizza and swag to boot.
 
 We can’t wait to see all of our members again next Tuesday! And until next time — happy hacking!  
-
----
-
-_Edited by @itsmingjie._

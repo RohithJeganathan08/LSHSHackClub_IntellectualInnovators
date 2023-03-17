@@ -1,4 +1,6 @@
-By Hack Club staff. 2015
+__By Hack Club staff. Edited by @megan for clarity. 2015__
+
+_Reviewed, edited, and updated by @ohdear12 on March 14th, 2023_
 
 ---
 
@@ -21,18 +23,19 @@ When it comes to pitching Hack Club, keep it short and simple, like the followin
 > 
 > Hack Club is like a continuous hackathon that happens twice a week at school.
 
-Now to go into depth on the three channels for driving sign-ups.
+Now to go into depth on the two channels for driving sign-ups.
 
-# Club Fair
+## Club Fair
 
 Most schools have a day for advertising clubs at the beginning of each semester. This commonly called the "club fair", "club day", "club rush", or "club showcase". It is extremely important that you have a presence at this event -- this is your opportunity to get the most important members (freshmen and sophomores) to your first club meeting.
 
 The best way to take advantage of your school's "club day" (or equivalent) is to bring food and be extremely proactive about getting people to give you their names, emails, and phone numbers. Excel or Google Sheets is a good way to collect this info, though it's a good idea to also bring a pencil and a clipboard in case of technical difficulties.
 
-# Posters
+> 📑 Refer to the [club-fairs guide](https://github.com/hackclub/hackclub/blob/main/clubs/guides/club-fairs.md) for more help on this topic.
+
+## Posters
 
 Having posters for your club in the hallways and in classrooms exposes new members to your club and reminds people where and when the club meets.Some older posters are also available on [GitHub](https://github.com/hackclub/hackclub/tree/master/clubs/posters).
 
 ---
 
-_Edited by @megan._

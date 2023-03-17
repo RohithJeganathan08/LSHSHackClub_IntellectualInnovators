@@ -1,6 +1,10 @@
-By Hack Club staff. 2015
+__By Hack Club staff. Edited by @megan for clarity. 2015__
+
+_Reviewed, edited, and updated by @ohdear12 on March 16th, 2023_
 
 ---
+
+> 🗒 Please note: all the information in the guide should be viewed as what it is (a guide) and not as "you must do this." There's still some good advice in here, so it's being kept around.
 
 Here's our suggested schedule:
 
@@ -31,7 +35,3 @@ When people do have questions, be eager to help them out. You want to set the ex
 Five minutes before the meeting is over, get everyone's attention to remind them about the next meeting. Say when and where it'll be and that everyone will be finishing up what they worked on today and demoing at the end of the meeting.
 
 And thank them for coming!
-
----
-
-_Edited by @megan._

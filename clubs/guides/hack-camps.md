@@ -1,8 +1,12 @@
-By Megan Cui (@megan). 02 Aug 2019
+__By Megan Cui (@megan). 02 Aug 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
-> PLEASE DM ME @megan IF I'M MISSING INFORMATION. I AM SO TIRED LOL
+_PLEASE DM ME @megan IF I'M MISSING INFORMATION. I AM SO TIRED LOL_
+
+> 📵 The author of this guide may not be active on the Hackclub slack anymore. #leaders is another good place to ask questions!
 
 Mason Hack Camp has been one of the most transformative experiences I've had when it comes to Hack Club events. The vigor and pressure needed to make this event happen is absolutely tiring but worth it, and it's an incredible pipeline for students to learn about Hack Club at a young age.
 
@@ -61,6 +65,8 @@ Quick bullets:
 From now on, I will refer to Mason Hack Camp as Camp. Everything here is simply my experience with camps!
 
 # Camp ≠ Hackathon
+
+> 🗒 Hackathons are prefered by most clubs, and many more people have experiance with hackatons then camps. _I suggest running a hackaton before taking on a camp._ -@ohdear12
 
 I don't want to scare you, but Camp, in many ways, is more difficult to run than a hackathon.
 
@@ -341,6 +347,4 @@ So, now that you've read all of this, hopefully you want to run a camp! Here's a
 
 Gonna keep this brief. You're awesome! You can run this camp! If I missed anything here, DM me at @megan. Peace!
 
----
-
-_Edited by @megan._
+> 📵 The author of this guide may not be active on the Hackclub slack anymore. #leaders is another good place to ask questions!

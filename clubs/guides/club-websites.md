@@ -10,7 +10,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 Any club leader can get access to a [hackclub.com](http://hackclub.com) subdomain for their club or hackathon website. To register or update yours, go to to [github.com/hackclub/dns](https://github.com/hackclub/dns) & submit a PR. A Hack Club staff member will approve your request shortly.
 
-> Fun fact: all of Hack Club’s DNS is [open source on GitHub](https://github.com/hackclub/dns)!
+> 🗒️ Fun fact: all of Hack Club’s DNS is [open source on GitHub](https://github.com/hackclub/dns)!
 
 If you have issues, ping @msw on Slack.
 
@@ -37,6 +37,7 @@ Hackclub has pre-made CSS and UI components. They can be found at [github.com/ha
 - [State High Hack Club](https://statehigh.hackclub.com)
   > 🚨 https://statehigh.hackclub.com looks like it's no longer mantained.
 - [Wootton Hack Club](https://hack.wootton.club/)
+  > 🚨 https://hack.wootton.club/ looks like it's no longer mantained.
 - [Fremont High School Hack Club](https://www.fhshackclub.com/)
 - [Palm Springs High School Hack Club](https://pshs.hackclub.com/)
   > 🚨 https://pshs.hackclub.com/ looks like it's no longer mantained.
@@ -56,7 +57,7 @@ I quickly discovered a few key things needed from my club site:
 - Quick links to Hack Club Workshops
 - Quick links to [repl.it](http://repl.it), Glitch, hackathon to register for, etc
 - A form for members to submit projects. I do demos at the end of every club meeting, & to avoid everyone dealing with A/V individually, I have everyone submit to me their project links on the site. It sends me an email, so I can then pull up the links on my laptop with the projector connected.
-  - I use a free service called [Formspree](https://formspree.io), but [Basin](https://usebasin.com/) is another free alternative.
+  - I use a free service called [Formspree](https://formspree.io), but [Basin](https://usebasin.com/) or google forms (included with Google Workspace) are some other free alternatives.
         
 
 [State High Hack Club](https://statehigh.hackclub.com)

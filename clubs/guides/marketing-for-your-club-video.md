@@ -1,8 +1,11 @@
 By Megan Cui (@megan). 06 Aug 2019
 
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
+
 ---
 
 [Youtube link](https://youtu.be/j86_TxXIDwM)
+> This is the guide in video form. Prefer to read? A summary is attached below.
 
 # Video Overview
 
@@ -110,6 +113,8 @@ On top of stickers, if you have the budget, you can consider investing in these 
 - Custom wristbands
 - Custom club stickers
 
+> 🗒 Free stickers for your club can be found and ordered in the [Hack Club Toolbox](https://toolbox.hackclub.com/stickers?category=&query=).
+
 You could also pass out:
 
 - Old hackathon or camp swag
@@ -125,7 +130,3 @@ Though it takes a bit of confidence, you should also keep in mind that you're gi
 # Conclusion
 
 Thanks for watching! I hope you feel confident and equipped to get more people into your awesome meetings. Check out other videos on this channel & other articles in the Help Center. More details can be found in the video description. DM me if you have any questions. Happy hacking!
-
----
-
-_Edited by @megan._

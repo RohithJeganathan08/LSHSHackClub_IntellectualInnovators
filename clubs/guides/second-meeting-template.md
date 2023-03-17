@@ -1,6 +1,10 @@
-By Hack Club staff. 2015
+__By Hack Club staff. Edited by @megan for clarity. 2015__
+
+_Reviewed, edited, and updated by @ohdear12 on March 14th, 2023_
 
 ---
+
+> 🗒 This guide is completely out of date, as clubs are now free to choose between workshops and free-form hacking as they please. All the information in the guide should be viewed as what it is (a guide) and not as "you must do this." There's still some good advice in here, so it's being kept around.
 
 The second meeting will pick up where the first left off. The majority of the meeting will be free-form time for hackers to continue expanding their portfolio websites. At the end of the meeting, everyone will come up to the front of the room and demo their website. As in the first meeting, bringing food is a good idea 😉.
 
@@ -51,7 +55,3 @@ To run the demos themselves, pick a hacker to demo first and a direction to form
 After each person demos, celebrate. Clap and cheer for them. Have fun and get members doing this with you -- you want the person demoing to feel accomplished after they finish.
 
 Demos easily get backlogged, so it's important to keep them moving fast. Each demo should be a minute long -- make an announcement that everyone will need to keep their demos under a minute.
-
----
-
-_Edited by @megan._

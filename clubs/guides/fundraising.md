@@ -1,4 +1,6 @@
-By Megan Cui (@megan). 05 Aug 2019
+__By Megan Cui (@megan). 05 Aug 2019__
+
+_Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
@@ -59,6 +61,4 @@ I made cupcakes and gave each person a cupcake along with a flyer and lots of pr
 
 I hope this helped you learn how to fundraise! DM me on Slack @megan if I missed any information here. Good luck! 💸💵🤑💰
 
----
-
-_Edited by @megan._
+> 📵 The author of this guide may not be active on the hackclub slack anymore. #leaders is another good place to ask questions!
