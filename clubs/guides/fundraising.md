@@ -4,7 +4,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
-_This article is meant to give you some ideas and actionables on how to raise money for your club. Note that, while these tips may work for hackathons, they won't raise quite enough money to be a reliable source of funding._
+> 🗒️ This article is meant to give you some ideas and actionables on how to raise money for your club. _Note that, while these tips may work for hackathons, they won't raise quite enough money to be a reliable source of funding._
 
 So, you're probably on this article because you're interested in raising some money... rest assured! Here are some ways to raise money.
 
