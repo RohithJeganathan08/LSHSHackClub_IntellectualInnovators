@@ -14,7 +14,7 @@ I super recommend running Hack Club’s Personal Website workshop. It’s made f
 
 _Short link for workshop: [**hack.af/intro**](https://hack.af/intro)_
 
-### Starting talk
+## Starting talk
 
 Welcome! Thank you all so much for being here at our first Hack Club meeting—seriously, it means the world to me. I'm Lachlan Campbell (they/them pronouns) & \[introduce others\]. First, I want a quick pulse. Raise your hands.
 
