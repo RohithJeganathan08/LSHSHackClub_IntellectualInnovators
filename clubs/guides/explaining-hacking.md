@@ -20,7 +20,7 @@ Usually, schools may determine that your club is sketchy just from the name. Pro
 
 > 🗨️ Hack Club is no ordinary club—it’s a large network of clubs in hundreds of high schools. We have one of the largest online communities for high school programmers. The existence of Hack Club at your school will bring the resources of the entire network and community to the students of your school. For example… our [project-based workshop curriculum](https://hackclub.com/workshops), our [hackathon network](https://hackathons.hackclub.com)_, and direct support from our HQ staff members.
 
-> Hack Club, registered as the Hack Foundation, is a 501(c)(3) non-profit organization based in San Francisco, California, United States. If your school requests proof of non-profit status, you can download a copy here.
+> 🗨️ Hack Club, registered as the Hack Foundation, is a 501(c)(3) non-profit organization based in San Francisco, California, United States. If your school requests proof of non-profit status, you can download a copy here.
 
 While using this strategy to convince faculty, be sure to know exactly what you are talking about.
 
