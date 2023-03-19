@@ -4,7 +4,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
-> 🗒 Please note: all the information in the guide should be viewed as what it is (_a guide_) and not as "you must do this." There's still some good advice in here, so it's being kept around.
+> 🗒 This guide is completely out of date, as clubs are now free to choose between workshops and free-form hacking as they please. All the information in the guide should be viewed as what it is (_a guide_) and not as "you must do this." There's still some good advice in here, so it's being kept around.
 
 Here's our suggested schedule for Hack Days:
 
