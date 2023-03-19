@@ -345,6 +345,6 @@ So, now that you've read all of this, hopefully you want to run a camp! Here's a
 
 # Conclusion
 
-Gonna keep this brief. You're awesome! You can run this camp! If I missed anything here, DM me at @megan. Peace!
+Gonna keep this brief. You _are_ awesome! You can run this camp! If I missed anything here, DM me at @megan. Peace!
 
 > 📵 The author of this guide may not be active on the Hackclub slack anymore. #leaders is another good place to ask questions!
