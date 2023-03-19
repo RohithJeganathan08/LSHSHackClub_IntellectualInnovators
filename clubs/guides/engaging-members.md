@@ -33,7 +33,7 @@ _Two truths, One lie:_ Each person says 3 facts, 2 are true while 1 is false. Ev
 
 _...or you can play a game someone makes up_
 
-# Additional notes
+### Additional notes
 _Addded by @ohdear12 on March 1st, 2023_
 
-The thing about engagement is that it goes both ways. If you aren't interacting with your club, your club won't engage with you and other members. Another tip: getting to know the members on a personal level helps quite a bit, and makes it easier to rope others into the club.
+The thing about engagement is that it goes both ways. If you aren't interacting with your club, your club won't engage with you and other members. Another tip: getting to know the members on a personal level helps quite a bit - and makes it easier to rope others into the club.
