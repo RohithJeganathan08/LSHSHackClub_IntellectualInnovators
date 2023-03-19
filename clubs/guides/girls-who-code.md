@@ -4,7 +4,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
-A club leader asked me how to tell their principal they should found a Hack Club when there’s already a Girls Who Code club. Here’s what I wrote as advice for a conversation with an administrator.
+A club leader asked me how to tell their principal they should found a Hack Club when there is already a Girls Who Code club. Here’s what I wrote as advice for a conversation with an administrator.
 
 > 🗨️ "Hack Club is fundamentally different from all other clubs. It’s by the students, for the students. Even though we also do coding, we’re not anything like a CS class or the GWC curriculum. There aren’t lectures or homework—students teach themselves coding by building projects on their own, discovering how to code as they go. Everyone leaves every meeting with a new project finished."
 
