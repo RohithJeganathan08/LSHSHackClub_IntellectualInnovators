@@ -35,6 +35,6 @@ Another thing was that we held a little get-together in the drama room at our sc
 
 Hearing something like this would have helped me since my school isn't made up of the most involved or passionate students so if your school is like that. I hope these are good guidelines :)
 
-By the way, here's what the **handouts** for the event looked like. I cut them up and one girl I passed it to even said, "Aww! You cut them up yourself?". This helped me understand that people appreciate the effort you put into things and are, as a result, more likely to also be passionate about it as well.
+By the way, here's what the **handouts** looked like. I cut them up and one girl I passed it to even said, "Aww! You cut them up yourself?". This helped me understand that people appreciate the effort you put into things and are, as a result, more likely to also be passionate about it as well.
 
 Link to the handouts: [https://docs.google.com/document/d/1C3GMC4kvxmCCtI-llNLEWxN1PpCnY6EdNOBsCatW9-c/edit?usp=sharing](https://docs.google.com/document/d/1C3GMC4kvxmCCtI-llNLEWxN1PpCnY6EdNOBsCatW9-c/edit?usp=sharing)
