@@ -5,7 +5,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 ---
 
 [Youtube link](https://www.youtube.com/watch?v=ZBadb9-KWro)
-> 🧹 Looks like a section the linked video is corrupted. A quick summary is attached.
+> 🧹 Looks like a section in the linked video is corrupted. A quick summary is attached.
 
 # Video Overview
 
