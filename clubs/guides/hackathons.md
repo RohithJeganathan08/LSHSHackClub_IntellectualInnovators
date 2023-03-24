@@ -18,6 +18,6 @@ A hackathon is a social coding marathon where teenagers come together to build p
 - https://hackathon.guide
 - https://www.youtube.com/watch?v=w_ACnmEqFr8
 - https://www.youtube.com/watch?v=tOmXzA4reTY
-  > 🤔 For some reason, this video is not avaible in restricted mode. Sorry!
+  > 🤔 For some reason, this video isn't available in youtube's restricted mode. Sorry!
 - http://conference.hopper.org.nz/#tshirts
-  > 🗃 Parts (or most) of this resource aren't relivant. This resource was last updated in 2016, and is almost out of date.
+  > 🗃 Parts (or most) of this resource aren't relevant. This resource was last updated in 2016 and may be out of date.
