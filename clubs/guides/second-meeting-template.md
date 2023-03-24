@@ -38,15 +38,15 @@ If you don't have a website that you built to demo, go ahead and pull up one of 
 
 # Hacking Time
 
-This'll basically be the same as the free-form hacking section in the first meeting. Members will continue building their websites. Your role is to foster an environment where people are comfortable asking for help.
+This'll be the same as the free-form hacking section in the first meeting. Members will continue building their websites. Your role is to foster an environment where people are comfortable asking for help.
 
 Just like in the first meeting, when people do have questions, be eager to help them out. It's also a good idea to put on an upbeat playlist (but again, not too loud -- people should feel comfortable talking with one another).
 
 # Demos
 
-Before getting to the demos themselves, give your members 30, 15 minute, and 5 minute warnings so they aren't caught off guard.
+Before getting to the demos themselves, give your members 30, 15-minute, and 5-minute warnings so they aren't caught off guard.
 
-30 minutes before demos start, have everyone email you a link to their website. After making this announcement, go to each person individually to confirm that they emailed you a link. If they run into any trouble, help them now. Hackers will be able to continue to add to their websites after they email you the link -- any changes they make will be live at the same URL they emailed you after they push to GitHub. Tell everyone not to worry if they don't finish, and that it's fine to demo whatever they have.
+30 minutes before demos start, have everyone email you a link to their website. After making this announcement, go to each person individually to confirm that they emailed you a link. If they run into any trouble, help them now. Hackers will be able to continue to add to their websites after they email you the link -- any changes they make will be live at the same URL they emailed you after they push to GitHub. Tell everyone not to worry if they don't finish and that it's fine to demo whatever they have.
 
 **Quick warning before we get into the nitty-gritty of running demos: these are hard to facilitate and you're going to have to be detail-oriented when running them.**
 
@@ -54,4 +54,4 @@ To run the demos themselves, pick a hacker to demo first and a direction to form
 
 After each person demos, celebrate. Clap and cheer for them. Have fun and get members doing this with you -- you want the person demoing to feel accomplished after they finish.
 
-Demos easily get backlogged, so it's important to keep them moving fast. Each demo should be a minute long -- make an announcement that everyone will need to keep their demos under a minute.
+Demos easily get backlogged, so it's important to keep them moving fast. Each demo should be a minute long -- announce that everyone will need to keep their demos under a minute.
