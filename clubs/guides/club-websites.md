@@ -34,17 +34,13 @@ Hackclub has pre-made CSS and UI components. They can be found at [github.com/ha
 
 - [Mason Hack Club](https://masonhackclub.com/)
 - [West Lafayette High School Hack Club](https://wl.hackclub.com/)
-- [State High Hack Club](https://statehigh.hackclub.com)
-  > 🚨 https://statehigh.hackclub.com looks like it's no longer mantained.
-- [Wootton Hack Club](https://hack.wootton.club/)
-  > 🚨 https://hack.wootton.club/ looks like it's no longer mantained.
+- [Hack Club Berlin](https://hackclubberlin.com)
+- [CodeTheTech](http://codethetech.hackclub.com)
 - [Fremont High School Hack Club](https://www.fhshackclub.com/)
-- [Palm Springs High School Hack Club](https://pshs.hackclub.com/)
-  > 🚨 https://pshs.hackclub.com/ looks like it's no longer mantained.
+- [John Hersey High School](https://herseyhack.club/)
 - [Westborough Hack Club](https://westborough.hackclub.com/)
-- [Pomperaug Hack Club](https://pomperaug.hackclub.com/)
-  > 🚨 https://pomperaug.hackclub.com/ looks like it's no longer mantained.
-
+- [SAIS Hack Club](https://www.saishack.club/)
+- [Mephis Hack Club](https://memphishack.com)
 
 # Stories from club leaders
 
