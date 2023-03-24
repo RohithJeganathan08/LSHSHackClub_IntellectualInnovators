@@ -26,7 +26,7 @@ This'll be the same as the free-form hacking section in the second meeting. Memb
 
 # Running Demos
 
-You'll want to do the same thing you did in the second meeting to run demos. [Click here](https://archived.guide.hackclub.com/#/meetings/second_meeting?id=demos) to go to second meeting's section on running demos.
+You'll want to do the same thing you did in the second meeting to run demos. [Click here](https://github.com/hackclub/hackclub/blob/main/clubs/guides/second-meeting-template.md) to go to second meeting's section on running demos.
 
 # Reminder for Next Meeting
 
