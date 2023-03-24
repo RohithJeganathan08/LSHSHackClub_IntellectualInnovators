@@ -6,7 +6,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 The leadership structure for Mason Hack Club has gone through several iterations. I'll be going over all of them here!
 
-> 🗒 This is a large club, so leadership was very formal. Your club leadership doesn't have to be quite as organised. As always, use your best judgement.
+> 🗒 This is a large club, so leadership was very formal. Your club leadership doesn't have to be quite as organized. As always, use your best judgment.
 
 # Year 1 (2016-17)
 
@@ -19,11 +19,11 @@ The roles we had in our first year were:
 - Finance Director
 - Activities Director
 
-The team size was enormous and not optimal for actual action, but was a good foundation to iterate on. It was mostly this large because of the large co-founding team, though many of our team's original members did not continue their work in the club following their first year.
+The team size was enormous and not optimal for actual action but was a good foundation to iterate on. This was because of the large co-founding team, though many of our team's original members did not continue their work in the club following their first year.
 
 My takeaways from this were:
 
-- Don't make the team larger the necessary
+- Don't make the team larger than the necessary
 - Make sure that titles are clear enough to indicate what someone's responsibilities would be
 
 # Year 2 (2017-18)
@@ -65,7 +65,7 @@ Takeaways:
 - Don't overinflate your team, but also don't hesitate to add members to your team for long-term solutions
 - Don't have more than one person in a role unless it's clear who's doing what
 - You NEED to start thinking about leadership transition much earlier than expected! This should be a discussion that happens, at the latest, in the middle of your junior year
-- Assistant positions are an interesting idea but need to be executed extremely well to work. We found that Assistant positions made Director roles less clear and responsibilities were harder to divide up; they also set unclear expectations around inheritance of a Director role to an Assistant Director
+- Assistant positions are an interesting idea but need to be executed extremely well to work. We found that Assistant positions made Director roles less clear and responsibilities were harder to divide up; they also set unclear expectations around the inheritance of a Director role to an Assistant Director
 
 # Year 4 (2019-20)
 
@@ -76,7 +76,7 @@ Roles (subject to change still!):
 - Outreach Director
 - Finance Director
 
-The smaller team was decided through long debates, but after reflection on Year 3 and examining the applications we received, we decided it'd be better to have a tighter-knit team with somewhat more responsibilities on each person. Of course, this leadership team could still change...
+The smaller team was decided through long debates, but after reflecting on Year 3 and examining the applications we received, we decided it'd be better to have a tighter-knit team with somewhat more responsibilities on each person. Of course, this leadership team could still change...
 
 # Conclusions
 
