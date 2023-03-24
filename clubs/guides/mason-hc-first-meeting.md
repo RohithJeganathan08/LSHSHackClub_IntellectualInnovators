@@ -6,7 +6,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 This Tuesday, September 3rd, marked the first club meeting for the Mason Hack Club. Over 80+ students attended to learn, code, and interact with the community — making this Hack Club meeting the largest in the United States to date.
 
-The meeting started off in Room B112 like usual but quickly swelled in size to the point where we ended up moving to Mason’s library.
+The meeting started in Room B112 like usual but quickly swelled in size to the point where we ended up moving to Mason’s library.
 
 ![](https://cloud-jga89q17v.vercel.app/21_l4-pf9_xld_cxujdsu2msq.jpeg)
 
@@ -27,3 +27,4 @@ We consolidated with a bit about what we do at Mason Hack Club, who we are, even
 Finally, everyone got to leave the meeting with something built, whether that be a personal website or React ‘hello world’, and some free pizza and swag to boot.
 
 We can’t wait to see all of our members again next Tuesday! And until next time — happy hacking!  
+
