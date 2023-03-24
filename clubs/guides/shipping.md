@@ -6,7 +6,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 14th, 2023_
 
 ### 🛳 What is shipping?
 
-Shipping code is another way to say sharing or delivering. Most people prefer to ship complete code, although incomplete code and/or projects can also be shipped. Shipping is a great way to share what you are working on with the community, and get some helpful feedback. 
+Shipping code is another way to say sharing or delivering. Most people prefer to ship complete code, although incomplete code and/or projects can also be shipped. Shipping is a great way to share what you are working on with the community and get some helpful feedback. 
 
 ### What can I ship?
 
@@ -16,5 +16,4 @@ You can ship anything! It could be a personal website you are working on, a cool
 
 ### How do I ship?
 
-You can ship your projects on the **#ship** channel on [the hackclub slack](http://hackclub.slack.com). Not in the slack or know someone who wants to join? It's super easy to join, request an invitation [here](https://hackclub.com/community/), and you will get an email, finish registration and get in on the action!
-
+You can ship your projects on the **#ship** channel on [the hackclub slack](http://hackclub.slack.com). Not in the slack or know someone who wants to join? It's super easy to join, request an invitation [here](https://hackclub.com/community/), and you will get an email. Finish registration and get in on the action!
