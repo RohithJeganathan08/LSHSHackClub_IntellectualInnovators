@@ -28,4 +28,4 @@ So I guess this is it. If you guys have questions or comments or have a working 
 
 _Added by @ohdear12 on March 1st, 2023_
 
-What I like about Chalebs example is his capacity for change. The mark of a good leader is someone who recognizes when something isn't working, asks why it isn't, then comes up with _and executes_ a plan to fix the issue. I call it the three-step strategy for improvement, and I suggest implementing it whenever you feel it's needed. Seriously. It helps a lot.
+What I like about Chalebs example is his capacity for change. The hallmark of a good leader is the ability to recognize when something isn't working, ask why it isn't working, then come up with _and execute_ a plan to fix the issue. I call it the three-step strategy for improvement, and I suggest implementing it whenever you feel it's needed. Seriously. It helps a lot.
