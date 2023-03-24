@@ -18,6 +18,6 @@ For example, for Mason Hack Club, we have four channels on top of a leadership c
 
 ### Hack Cincinnati
 
-Hack Cincinnati is similar. We broke our discussions up into multiple different channels, just like masonleads, but notice that we have two new and unique channels called #hc-data and #hc-important. #hc-data reports data using Zapier in real time, and #hc-important is a channel for the leadership team to announce important things, such as venue changes, big sponsorship agreements, and more!
+Hack Cincinnati is similar. We broke our discussions up into multiple different channels, just like masonleads, but notice that we have two new and unique channels called #hc-data and #hc-important. #hc-data reports data using Zapier in real-time, and #hc-important is a channel for the leadership team to announce important things, such as venue changes, big sponsorship agreements, and more!
 
 ![](https://cloud-ixb8ojv0f.vercel.app/1image-20190730-204724.png)
