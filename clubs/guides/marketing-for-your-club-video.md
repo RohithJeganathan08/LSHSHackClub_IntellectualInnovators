@@ -1,11 +1,11 @@
-By Megan Cui (@megan). 06 Aug 2019
+__By Megan Cui (@megan). 06 Aug 2019__
 
 _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 ---
 
 [Youtube link](https://youtu.be/j86_TxXIDwM)
-> This is the guide in video form. Prefer to read? A summary is attached below.
+> 🗒️ This is the guide in video form. Prefer to read? A summary is attached below.
 
 # Video Overview
 
@@ -14,7 +14,7 @@ _Reviewed, edited, and updated by @ohdear12 on March 1st, 2023_
 
 # Creating a narrative
 
-In order to create an effective narrative, you should consider a few factors.
+To create an effective narrative, you should consider a few factors.
 
 ## 1\. Average skill level of students in your school
 
@@ -31,13 +31,13 @@ You'll have to create a nuanced pitch based on the types of competitors you have
 
 Organizations like ACM, Robotics, and Girls Who Code.
 
-- Your org is different because you're focused on building amazing things with code that impact others
-- Participating in these two orgs are not mutually exclusive, realize that these other orgs are really cool as well
+- Your org is different because you're focused on building amazing things with code that impacts others
+- Participating in these two organizations is not mutually exclusive, realize that these other organizations are really cool as well
 - Inclusive of all skill levels and genders at Hack Club — we'll teach you how to code from 0 experience
-- Over 300 clubs world wide and more than 4000 members
+- Over 300 clubs worldwide and more than 4000 members
 - Run amazing events like free coding competitions called hackathons
 
-### Competitive orgs
+### Competitive organizations
 
 - Not mutually exclusive
 - You get to pursue things for your own sake
@@ -75,13 +75,13 @@ Make sure you engage these people the right way. I always made sure that I asked
 
 ### Announcements
 
-Make sure you get your first few club meetings announced on your school announcements. This could be through morning announcements through the entire school, but it could also just be a post on your school's network (Schoology, Edline, Blackboard, etc.).
+Make sure you get your first few club meetings announced on your school announcements. This could be through morning announcements throughout the entire school, but it could also just be a post on your school's network (Schoology, Edline, Blackboard, etc.).
 
 In the announcements, you want to make sure your message has your meeting time, date, and location. You should also have a 1-2 sentence description of Hack Club and what the first meeting may entail.
 
 Mason used this:
 
-> Are you interested in coding? Do you want to learn how to make a game or learn a new programming language? Join Mason Hack Club! All skill levels are welcome. The 2nd semester kickoff meeting is Tuesday the 29th right after school in room B112. This will be a short meeting about our new meeting structure and opportunities. Free pizza will be served.
+> 🗨️Are you interested in coding? Do you want to learn how to make a game or learn a new programming language? Join Mason Hack Club! All skill levels are welcome. The 2nd-semester kickoff meeting is Tuesday the 29th right after school in room B112. This will be a short meeting about our new meeting structure and opportunities. Free pizza will be served.
 
 Announcements should happen before every major meeting, such as your first meeting of the semester/quarter/trimester.
 
@@ -99,7 +99,7 @@ Hang posters in
 
 The goal is that every single person in the school knows what Hack Club is, even if they don't come.
 
-Make sure these posters are colorful, clear, but concise. Good graphics/pictures will make the design more noticeable and memorable! You can make your own posters on a great website called Canva.
+Make sure these posters are colorful and clear, but concise. Good graphics/pictures will make the design more noticeable and memorable! You can make your own posters on a great website called Canva.
 
 ![](https://cloud-g8xtbr32u.vercel.app/0untitled.png)
 
@@ -125,7 +125,7 @@ One of the most prominent ways that Mason Hack Club's brand spread through our h
 
 I **definitely** recommend this style of marketing.
 
-Though it takes a bit of confidence, you should also keep in mind that you're giving them free stuff and hopefully also giving them an opportunity to explore technology in a way they've never done so before.
+Though it takes a bit of confidence, you should also keep in mind that you're giving them free stuff and hopefully also allowing them to explore technology in a way they've never done so before.
 
 # Conclusion
 
