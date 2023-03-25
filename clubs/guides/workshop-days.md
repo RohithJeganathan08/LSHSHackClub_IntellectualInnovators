@@ -22,7 +22,7 @@ Put on a playlist and have the first slide on the projector to let people know t
 
 # Workshop
 
-This'll be just like how you ran the first website workshop, except for the current workshop you're on. [Click here](https://archived.guide.hackclub.com/#/meetings/first_meeting?id=the-first-meeting) for a link to the first workshop guidelines.
+This will be just like how you ran the first website workshop, except for the current workshop you're on. [Click here](https://archived.guide.hackclub.com/#/meetings/first_meeting?id=the-first-meeting) for a link to the first workshop guidelines.
 
 # Hacking
 
