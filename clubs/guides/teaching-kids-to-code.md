@@ -8,15 +8,15 @@ Originally named “Koding 4 Kidz”.
 
 # Introduction
 
-Hello! This article is about helping middle and elementary school students learn to code and how to combat some of the problems that come with. We also included what you need to know to run your first successful event for kids. It’s also an adaptation of a talk performed at the 2019 Flagship Summit!
+Hello! This article is about helping middle and elementary school students learn to code and how to combat some of the problems that come with it. We also included what you need to know to run your first successful event for kids. It’s also an adaptation of a talk performed at the 2019 Flagship Summit!
 
 ## A little about ourselves…
 
-Ava: I started coding my freshman year when I took a programming class. I’ve helped plan a Girl Scout day camp for elementary schoolers for 5 years, and I’ve taught at several after school classes, camps, and events focused on teaching kids to code. I love working with kids because they’re so endlessly creative! I’ve also run several hackathons and events for high school students.
+Ava: I started coding my freshman year when I took a programming class. I’ve helped plan a Girl Scout day camp for elementary schoolers for 5 years, and I’ve taught at several after-school classes, camps, and events focused on teaching kids to code. I love working with kids because they’re so endlessly creative! I’ve also run several hackathons and events for high school students.
 
-Jack: I was introduced into coding through the Mason Hack Club my Sophomore year, of which I am now the Executive Director. When I was younger, I led my Boy Scout troop of 50+ children in multiple campouts and events. Teaching others to code, especially younger children, is one of my passions. Like Ava, I’ve also run several hackathons and events for older students as well.
+Jack: I was introduced to coding through the Mason Hack Club during my Sophomore year, of which I am now the Executive Director. When I was younger, I led my Boy Scout troop of 50+ children in multiple campouts and events. Teaching others to code, especially younger children, is one of my passions. Like Ava, I’ve also run several hackathons and events for older students.
 
-We both go to Mason High School, and both of us joined our school’s Hack Club, the Mason Hack Club, in the fall of 2017. We’ve been teaching kids how to code as outreach ever since. Some of the events we’ve run together include Mason Hack Camp, a yearly week long coding camp for kids, and CincyHacks Jr., Mason’s first middle school hackathon.
+We both go to Mason High School, and both of us joined our school’s Hack Club, the Mason Hack Club, in the fall of 2017. We’ve been teaching kids how to code as outreach ever since. Some of the events we’ve run together include Mason Hack Camp, a yearly week-long coding camp for kids, and CincyHacks Jr., Mason’s first middle school hackathon.
 
 ![](https://cloud-al9r256lr.vercel.app/6img_4064.jpg)
 
@@ -28,15 +28,15 @@ Everyone who ever learns to code, regardless of their age, will need instruction
 
 We’ll all admit that coding can be frustrating sometimes. Even though it’s frustrating for everyone, coding is potentially even more frustrating for kids because of their short attention span and lack of patience. Code often doesn’t work the first time you compile it, which is a new concept to many kids. They find it hard to make mistakes, and when things don’t go right instantly, they often just want to quit.
 
-When a student begins to become frustrated with coding, it’s your job as a teacher to help them refocus. You’re a role model to them—it’s important for them to realize that everyone makes mistakes and that you’re there to help. We like to tell our own personal stories about the first times we coded—everyone struggles at first and that’s okay.
+When a student begins to become frustrated with coding, it’s your job as a teacher to help them refocus. You’re a role model to them—they need to realize that everyone makes mistakes and that you’re there to help. We like to tell our personal stories about the first times we coded—everyone struggles at first and that’s okay.
 
 ![](https://cloud-al9r256lr.vercel.app/5pasted_image_0.jpg)
 
 _Young coders hard at work at CincyHacks Jr._
 
-Patience is the most important key to working well with younger kids—it can significantly contribute to their learning. Being there for your students when they have questions, get frustrated, or want to give up is one of the most critical tasks you have as an instructor to children. Plenty of things are going to test your patience, we promise. Often, you’ll have several kids need help at the same time, or your compiler will stop working, or the WiFi will go out—all situations beyond your control.
+Patience is the most important key to working well with younger kids—it can significantly contribute to their learning. Being there for your students when they have questions, get frustrated, or want to give up is one of the most critical tasks you have as an instructor for children. Plenty of things are going to test your patience, we promise. Often, you’ll have several kids who need help at the same time, or your compiler will stop working, or the WiFi will go out—all situations beyond your control.
 
-This is a great time to delegate tasks. If you have other volunteers helping you, you can often ask one of them to help one kid while you help another. If not, you can always tell the kid calmly, “I have to help x person at the moment because their problem came up first. Can you hang tight for a few seconds and I’ll help you as soon as I can?” Usually, kids are pretty understanding about this if you ask them nicely. They understand that you can’t do everything at once, as long as you make them aware of your intent to help them in an easy to understand manner.
+This is a great time to delegate tasks. If you have other volunteers helping you, you can often ask one of them to help one kid while you help another. If not, you can always tell the kid calmly, “I have to help x person at the moment because their problem came up first. Can you hang tight for a few seconds and I’ll help you as soon as I can?” Usually, kids are pretty understanding about this if you ask them nicely. They understand that you can’t do everything at once, as long as you make them aware of your intent to help them in an easy-to-understand manner.
 
 # Incorporating Interests
 
@@ -60,13 +60,13 @@ _An attendee presents their project at CincyHacks Jr._
 
 One of the biggest struggles with teaching young students is that they’re often dependent on step-by-step instruction. When you give directions, it’s important to be clear and concise while also putting things into terms for kids to understand.
 
-When you’re teaching kids, you’ll find that you sound like a broken record. Kids sometimes don’t listen the first time you say something, or they’ll ask you a question you already answered because they didn’t understand what you told them. Like we said, patience in these situations is important! When you find yourself repeating the same thing over and over again, try to rephrase what you’re teaching to make it easier to understand. Remember that these are new coders and younger kids—their brains don’t work quite like yours. Giving them an example other than the code they’re working on is a good place to start.
+When you’re teaching kids, you’ll find that you sound like a broken record. Kids sometimes don’t listen the first time you say something, or they’ll ask you a question you already answered because they didn’t understand what you told them. As we said, patience in these situations is important! When you find yourself repeating the same thing over and over again, try to rephrase what you’re teaching to make it easier to understand. Remember that these are new coders and younger kids—their brains don’t work quite like yours. Giving them an example other than the code they’re working on is a good place to start.
 
 ![](https://cloud-al9r256lr.vercel.app/2pasted_image_3.png)
 
 _Kids being taught by Mason Hack Club members_
 
-A good tactic is to explain things with analogies to everyday life—we usually talk about if statements being similar to the weather. If statements check a condition, like the weather outside, and decide what to do based on what the condition is. If it’s cold outside, you would wear a coat. If it’s warm out, you wear shorts. Not checking the weather and just choosing a random item to wear never goes well, so using an if test here is a good idea.
+A good tactic is to explain things with analogies to everyday life—we usually talk about if statements are similar to the weather. If statements check a condition, like the weather outside, and decide what to do based on what the condition is. If it’s cold outside, you would wear a coat. If it’s warm out, you wear shorts. Not checking the weather and just choosing a random item to wear never goes well, so using an if test here is a good idea.
 
 # Forming a Team
 
@@ -82,11 +82,11 @@ The best way to improve your team and your students’ experience is to get feed
 
 # Finding a Venue
 
-An important part of any event for younger students is the venue. Venue can make or break your event! When picking a space, there are a few things to keep in mind.
+An important part of any event for younger students is the venue. The venue can make or break your event! When picking a space, there are a few things to keep in mind.
 
 The biggest question you should ask yourself when picking a venue: is this space going to be accommodating for all of the kids in attendance? Can they spread out throughout the venue? Are there bathrooms and water fountains nearby? Aim for friendly, open spaces that allow kids to spread out and work in groups.
 
-Another aspect you need to look for when choosing a venue: quality of outdoor spaces. If you’re running an event in the hotter months, you’re definitely going to want to run outdoor breaks. They’re beneficial in two ways: one, they let kids blow off steam and tire themselves out (trust us, you’re going to want it) and two, team members who aren’t supervising the outdoor break get time to recollect and take a break as well (trust us, you’re going to need it). Tag, night at the museum, and mafia and other no-supplies-required outdoor games are super fun and let kids take a brain break from code for a bit.
+Another aspect you need to look for when choosing a venue: quality of outdoor spaces. If you’re running an event in the hotter months, you’re going to want to run outdoor breaks. They’re beneficial in two ways: one, they let kids blow off steam and tire themselves out (trust us, you’re going to want it) and two, team members who aren’t supervising the outdoor break get time to recollect and take a break as well (trust us, you’re going to need it). Tag, a night at the museum, and mafia, and other no-supplies-required outdoor games are super fun and let kids take a brain break from code for a bit.
 
 ![](https://cloud-al9r256lr.vercel.app/0pasted_image_5.png)
 
@@ -94,12 +94,14 @@ _CincyHacks Jr. attendees outside Cengage Learning in Mason, Ohio_
 
 # Snacks
 
-The final thing we’re going to talk about today is snacks. A small but important detail—kids are extremely food motivated. Snacks can help kids stay on task and provide them with quick food in order to keep them from getting cranky. They also make great extra rewards for following directions, getting questions right, etc.
+The final thing we’re going to talk about today is snacks. A small but important detail—kids are extremely food motivated. Snacks can help kids stay on task and provide them with quick food to keep them from getting cranky. They also make great extra rewards for following directions, getting questions right, etc.
 
-And just like we touched upon in the venue section, snacks give the opportunity for younger students to have a break and recharge their brains for even more coding and learning.
+And just like we touched upon in the venue section, snacks allow younger students to have a break and recharge their brains for even more coding and learning.
 
 # Conclusion
 
-If you’ve made it this far, thank you for reading! We hope that you’ve learned something about teaching children and have a good idea about where to start and some of the things to think about when organizing your first event for kids. If you have any questions, comments, or concerns, don’t hesitate to reach out! We’re available on the Slack (@margeson.jack & @ava) and you can find all of our other contact stuff and boring things like that on our websites: [https://marg.es/on/](https://marg.es/on/) & [https://avascherocman.com/](https://avascherocman.com/). Until next time—happy hacking!
+If you’ve made it this far, thank you for reading! We hope that you’ve learned something about teaching children and have a good idea about where to start and some of the things to think about when organizing your first event for kids. If you have any questions, comments, or concerns, don’t hesitate to reach out! We’re available on Slack (@margeson.jack & @ava) and you can find all of our other contact stuff and boring things like that on our websites: [https://marg.es/on/](https://marg.es/on/) & [https://avascherocman.com/](https://avascherocman.com/). Until next time—happy hacking!
 
 > 📵 The author(s) may not be active on the hackclub slack anymore. #leaders is also a good place to post questions!
+
+
